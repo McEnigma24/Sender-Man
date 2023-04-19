@@ -1,7 +1,0 @@
-send_to:
-tytle:
-file_name:
-add_date:
-add_hour:
-load_file_paths:
-zip:
