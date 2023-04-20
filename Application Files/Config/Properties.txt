@@ -1,7 +1,8 @@
-send_to:
-tytle:
-file_name:
-add_date:
-add_hour:
-load_file_paths:
-zip:
+from:Application Sender
+tytle:tytle
+file_name:code
+add_date:true
+add_hour:false
+load_file_paths:false
+zip:false
+close_after_sending:false
