@@ -18,7 +18,7 @@ CAPABILITIES
 LIMITATIONS
 - it doesn't send directories (folders) just files
 
-ERROR - something went wrong -
+ERROR - something went wrong - ERROR
 
-possible reasons:
-1. the file application is trying to send is IN USE or OPENED in other window
+POSSIBLE REASONS:
+1. the file you're trying to send is IN USE or OPENED in other window
