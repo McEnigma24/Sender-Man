@@ -3,10 +3,10 @@ Open Applications Files and create a shortcut to the "Wysylanie na maila.exe" fi
 Now you can launch the app double clicking the shortcut
 
 WHAT IS THE USE CASE
-#1 Just like normal mail, but you can save some prefences that next time you launch the app would be remembered. 
+#1 Just like normal mail, but you can save some prefences that next time you launch the app would be remembered (after pressing button "Save preferences"). 
 Addictionaly you can past some text in BODY and after pressing LOAD NEXT FILE the app will turn this text into .txt file and attach it to the gmail.
 
-#2 This app saw created for optimizing sending messages containing the same paths to desired files, so you don't have to drag and drop them every time. 
+#2 This app was created for optimizing sending messages containing the same paths to desired files, so you don't have to drag and drop them every time. 
 If there is a peace of code that your working on or any other file and you want to send it to somebody (or to yourself to save it)
 you would only need ONE configurations of the app. The filepath would be remembered so as every other setting and you could send your gmail in SECONDS.
 
