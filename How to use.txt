@@ -26,3 +26,4 @@ ERROR - something went wrong - ERROR
 POSSIBLE REASONS:
 1. file is more than 25 MB
 2. the file you're trying to send is IN USE or OPENED in other window
+3. gmail detected potential virus
